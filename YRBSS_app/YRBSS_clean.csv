@@ -1,0 +1,1085 @@
+Year,Area,Demographics_Type,Demographics_Value,Percent
+2019,Alabama,RaceEthnicity,"Asian, NH",15.55
+2019,Alabama,RaceEthnicity,"Black, NH",22.2
+2019,Alabama,RaceEthnicity,Hispanic,22.45
+2019,Alabama,RaceEthnicity,"Multiple race, NH",24.25
+2019,Alabama,RaceEthnicity,"White, NH",20.55
+2019,Alabama,Sex,Female,27.150000000000000
+2019,Alabama,Sex,Male,15.4
+2019,Alabama,Total,Total,21.45
+2019,Alaska,RaceEthnicity,"AI/AN, NH",28.325
+2019,Alaska,RaceEthnicity,"Asian, NH",23.075
+2019,Alaska,RaceEthnicity,"Black, NH",26.05
+2019,Alaska,RaceEthnicity,Hispanic,30.45
+2019,Alaska,RaceEthnicity,"Multiple race, NH",31.475
+2019,Alaska,RaceEthnicity,"NHOPI, NH",28.55
+2019,Alaska,RaceEthnicity,"White, NH",23.05
+2019,Alaska,Sex,Female,32.45
+2019,Alaska,Sex,Male,20.125
+2019,Alaska,Total,Total,26.175
+2019,Arizona,RaceEthnicity,"AI/AN, NH",22.4
+2019,Arizona,RaceEthnicity,"Asian, NH",25.825
+2019,Arizona,RaceEthnicity,"Black, NH",21.225
+2019,Arizona,RaceEthnicity,Hispanic,21.825
+2019,Arizona,RaceEthnicity,"Multiple race, NH",20.125
+2019,Arizona,RaceEthnicity,"White, NH",22.0
+2019,Arizona,Sex,Female,27.6
+2019,Arizona,Sex,Male,16.375
+2019,Arizona,Total,Total,22.0
+2019,Arkansas,RaceEthnicity,"Asian, NH",26.575
+2019,Arkansas,RaceEthnicity,"Black, NH",20.2
+2019,Arkansas,RaceEthnicity,Hispanic,23.775
+2019,Arkansas,RaceEthnicity,"Multiple race, NH",30.275
+2019,Arkansas,RaceEthnicity,"NHOPI, NH",27.350000000000000
+2019,Arkansas,RaceEthnicity,"White, NH",20.425
+2019,Arkansas,Sex,Female,27.45
+2019,Arkansas,Sex,Male,14.75
+2019,Arkansas,Total,Total,21.25
+2019,California,RaceEthnicity,"Asian, NH",17.925
+2019,California,RaceEthnicity,"Black, NH",27.05
+2019,California,RaceEthnicity,Hispanic,31.15
+2019,California,RaceEthnicity,"Multiple race, NH",16.425
+2019,California,RaceEthnicity,"White, NH",21.825
+2019,California,Sex,Female,31.400000000000000
+2019,California,Sex,Male,21.025000000000000
+2019,California,Total,Total,26.2
+2019,Colorado,RaceEthnicity,"Asian, NH",15.300000000000000
+2019,Colorado,RaceEthnicity,"Black, NH",16.375
+2019,Colorado,RaceEthnicity,Hispanic,22.625
+2019,Colorado,RaceEthnicity,"Multiple race, NH",27.55
+2019,Colorado,RaceEthnicity,"White, NH",15.125
+2019,Colorado,Sex,Female,22.575
+2019,Colorado,Sex,Male,14.0
+2019,Colorado,Total,Total,18.325
+2019,Connecticut,RaceEthnicity,"Asian, NH",7.866666666666670
+2019,Connecticut,RaceEthnicity,"Black, NH",15.700000000000000
+2019,Connecticut,RaceEthnicity,Hispanic,20.266666666666700
+2019,Connecticut,RaceEthnicity,"Multiple race, NH",21.200000000000000
+2019,Connecticut,RaceEthnicity,"White, NH",15.633333333333300
+2019,Connecticut,Sex,Female,21.566666666666700
+2019,Connecticut,Sex,Male,11.833333333333300
+2019,Connecticut,Total,Total,16.666666666666700
+2019,Florida,RaceEthnicity,"AI/AN, NH",14.033333333333300
+2019,Florida,RaceEthnicity,"Asian, NH",17.55
+2019,Florida,RaceEthnicity,"Black, NH",16.075
+2019,Florida,RaceEthnicity,Hispanic,16.675
+2019,Florida,RaceEthnicity,"Multiple race, NH",23.325
+2019,Florida,RaceEthnicity,"NHOPI, NH",29.13333333333330
+2019,Florida,RaceEthnicity,"White, NH",17.65
+2019,Florida,Sex,Female,22.175
+2019,Florida,Sex,Male,12.325
+2019,Florida,Total,Total,17.25
+2019,Georgia,RaceEthnicity,"AI/AN, NH",22.0
+2019,Georgia,RaceEthnicity,"Asian, NH",15.325
+2019,Georgia,RaceEthnicity,"Black, NH",18.625
+2019,Georgia,RaceEthnicity,Hispanic,18.3
+2019,Georgia,RaceEthnicity,"Multiple race, NH",27.1
+2019,Georgia,RaceEthnicity,"White, NH",16.1
+2019,Georgia,Sex,Female,22.475
+2019,Georgia,Sex,Male,13.375
+2019,Georgia,Total,Total,18.15
+2019,Guam,RaceEthnicity,"Asian, NH",26.3
+2019,Guam,RaceEthnicity,Hispanic,42.275
+2019,Guam,RaceEthnicity,"Multiple race, NH",24.825
+2019,Guam,RaceEthnicity,"NHOPI, NH",28.775
+2019,Guam,Sex,Female,34.725
+2019,Guam,Sex,Male,22.075
+2019,Guam,Total,Total,27.9
+2019,Hawaii,RaceEthnicity,"Asian, NH",17.525
+2019,Hawaii,RaceEthnicity,"Black, NH",14.775
+2019,Hawaii,RaceEthnicity,Hispanic,26.175
+2019,Hawaii,RaceEthnicity,"Multiple race, NH",18.975
+2019,Hawaii,RaceEthnicity,"NHOPI, NH",19.425
+2019,Hawaii,RaceEthnicity,"White, NH",17.65
+2019,Hawaii,Sex,Female,23.3
+2019,Hawaii,Sex,Male,14.75
+2019,Hawaii,Total,Total,19.125
+2019,Idaho,RaceEthnicity,Hispanic,19.35
+2019,Idaho,RaceEthnicity,"Multiple race, NH",35.2
+2019,Idaho,RaceEthnicity,"White, NH",21.025
+2019,Idaho,Sex,Female,26.175
+2019,Idaho,Sex,Male,16.725
+2019,Idaho,Total,Total,21.6
+2019,Illinois,RaceEthnicity,"Asian, NH",15.525
+2019,Illinois,RaceEthnicity,"Black, NH",22.9
+2019,Illinois,RaceEthnicity,Hispanic,21.125
+2019,Illinois,RaceEthnicity,"Multiple race, NH",23.1
+2019,Illinois,RaceEthnicity,"White, NH",18.625
+2019,Illinois,Sex,Female,24.5
+2019,Illinois,Sex,Male,15.3
+2019,Illinois,Total,Total,19.975000000000000
+2019,Iowa,RaceEthnicity,"Asian, NH",23.175
+2019,Iowa,RaceEthnicity,"Black, NH",19.625
+2019,Iowa,RaceEthnicity,Hispanic,24.125
+2019,Iowa,RaceEthnicity,"Multiple race, NH",26.25
+2019,Iowa,RaceEthnicity,"White, NH",18.4
+2019,Iowa,Sex,Female,25.275
+2019,Iowa,Sex,Male,13.775
+2019,Iowa,Total,Total,19.475000000000000
+2019,Kansas,RaceEthnicity,"Asian, NH",25.53333333333330
+2019,Kansas,RaceEthnicity,"Black, NH",15.925
+2019,Kansas,RaceEthnicity,Hispanic,22.15
+2019,Kansas,RaceEthnicity,"Multiple race, NH",33.525
+2019,Kansas,RaceEthnicity,"White, NH",16.375
+2019,Kansas,Sex,Female,21.850000000000000
+2019,Kansas,Sex,Male,14.75
+2019,Kansas,Total,Total,18.375
+2019,Kentucky,RaceEthnicity,"Asian, NH",13.825
+2019,Kentucky,RaceEthnicity,"Black, NH",23.075
+2019,Kentucky,RaceEthnicity,Hispanic,18.9
+2019,Kentucky,RaceEthnicity,"Multiple race, NH",20.825
+2019,Kentucky,RaceEthnicity,"White, NH",19.275000000000000
+2019,Kentucky,Sex,Female,23.625
+2019,Kentucky,Sex,Male,15.65
+2019,Kentucky,Total,Total,19.9
+2019,Louisiana,RaceEthnicity,"Black, NH",21.9
+2019,Louisiana,RaceEthnicity,Hispanic,28.075000000000000
+2019,Louisiana,RaceEthnicity,"Multiple race, NH",31.5
+2019,Louisiana,RaceEthnicity,"White, NH",19.925000000000000
+2019,Louisiana,Sex,Female,26.3
+2019,Louisiana,Sex,Male,17.075
+2019,Louisiana,Total,Total,21.9
+2019,Maine,RaceEthnicity,"AI/AN, NH",19.825
+2019,Maine,RaceEthnicity,"Asian, NH",13.475
+2019,Maine,RaceEthnicity,"Black, NH",15.5
+2019,Maine,RaceEthnicity,Hispanic,24.375
+2019,Maine,RaceEthnicity,"Multiple race, NH",24.8
+2019,Maine,RaceEthnicity,"White, NH",16.8
+2019,Maine,Sex,Female,21.4
+2019,Maine,Sex,Male,13.05
+2019,Maine,Total,Total,17.2
+2019,Maryland,RaceEthnicity,"AI/AN, NH",24.766666666666700
+2019,Maryland,RaceEthnicity,"Asian, NH",18.53333333333330
+2019,Maryland,RaceEthnicity,"Black, NH",22.2
+2019,Maryland,RaceEthnicity,Hispanic,23.566666666666700
+2019,Maryland,RaceEthnicity,"Multiple race, NH",28.96666666666670
+2019,Maryland,RaceEthnicity,"NHOPI, NH",24.03333333333330
+2019,Maryland,RaceEthnicity,"White, NH",20.8
+2019,Maryland,Sex,Female,27.5
+2019,Maryland,Sex,Male,16.433333333333300
+2019,Maryland,Total,Total,22.066666666666700
+2019,Massachusetts,RaceEthnicity,"Asian, NH",19.7
+2019,Massachusetts,RaceEthnicity,"Black, NH",16.95
+2019,Massachusetts,RaceEthnicity,Hispanic,21.55
+2019,Massachusetts,RaceEthnicity,"Multiple race, NH",17.05
+2019,Massachusetts,RaceEthnicity,"White, NH",17.350000000000000
+2019,Massachusetts,Sex,Female,20.775
+2019,Massachusetts,Sex,Male,15.45
+2019,Massachusetts,Total,Total,18.350000000000000
+2019,Michigan,RaceEthnicity,"AI/AN, NH",27.45
+2019,Michigan,RaceEthnicity,"Asian, NH",18.775000000000000
+2019,Michigan,RaceEthnicity,"Black, NH",17.625
+2019,Michigan,RaceEthnicity,Hispanic,26.725
+2019,Michigan,RaceEthnicity,"Multiple race, NH",26.525
+2019,Michigan,RaceEthnicity,"White, NH",18.475
+2019,Michigan,Sex,Female,23.525
+2019,Michigan,Sex,Male,14.925000000000000
+2019,Michigan,Total,Total,19.375
+2019,Mississippi,RaceEthnicity,"Black, NH",19.875
+2019,Mississippi,RaceEthnicity,Hispanic,22.75
+2019,Mississippi,RaceEthnicity,"Multiple race, NH",29.7
+2019,Mississippi,RaceEthnicity,"White, NH",20.875
+2019,Mississippi,Sex,Female,25.325
+2019,Mississippi,Sex,Male,15.75
+2019,Mississippi,Total,Total,20.7
+2019,Missouri,RaceEthnicity,"Black, NH",16.65
+2019,Missouri,RaceEthnicity,Hispanic,27.75
+2019,Missouri,RaceEthnicity,"Multiple race, NH",20.550000000000000
+2019,Missouri,RaceEthnicity,"White, NH",17.025000000000000
+2019,Missouri,Sex,Female,21.175
+2019,Missouri,Sex,Male,14.625
+2019,Missouri,Total,Total,18.0
+2019,Montana,RaceEthnicity,"AI/AN, NH",25.375
+2019,Montana,RaceEthnicity,"Asian, NH",23.566666666666700
+2019,Montana,RaceEthnicity,"Black, NH",30.075
+2019,Montana,RaceEthnicity,Hispanic,29.850000000000000
+2019,Montana,RaceEthnicity,"Multiple race, NH",28.575
+2019,Montana,RaceEthnicity,"White, NH",21.325
+2019,Montana,Sex,Female,27.35
+2019,Montana,Sex,Male,17.375
+2019,Montana,Total,Total,22.4
+2019,Nebraska,RaceEthnicity,"Asian, NH",15.525
+2019,Nebraska,RaceEthnicity,"Black, NH",15.525
+2019,Nebraska,RaceEthnicity,Hispanic,23.05
+2019,Nebraska,RaceEthnicity,"Multiple race, NH",27.05
+2019,Nebraska,RaceEthnicity,"White, NH",17.3
+2019,Nebraska,Sex,Female,23.65
+2019,Nebraska,Sex,Male,13.05
+2019,Nebraska,Total,Total,18.45
+2019,Nevada,RaceEthnicity,"Asian, NH",18.675
+2019,Nevada,RaceEthnicity,"Black, NH",20.975
+2019,Nevada,RaceEthnicity,Hispanic,23.7
+2019,Nevada,RaceEthnicity,"Multiple race, NH",23.975
+2019,Nevada,RaceEthnicity,"NHOPI, NH",23.400000000000000
+2019,Nevada,RaceEthnicity,"White, NH",17.975
+2019,Nevada,Sex,Female,26.1
+2019,Nevada,Sex,Male,16.475
+2019,Nevada,Total,Total,21.2
+2019,New Hampshire,RaceEthnicity,"AI/AN, NH",19.6
+2019,New Hampshire,RaceEthnicity,"Asian, NH",15.525
+2019,New Hampshire,RaceEthnicity,"Black, NH",19.825
+2019,New Hampshire,RaceEthnicity,Hispanic,24.95
+2019,New Hampshire,RaceEthnicity,"Multiple race, NH",22.400000000000000
+2019,New Hampshire,RaceEthnicity,"NHOPI, NH",22.133333333333300
+2019,New Hampshire,RaceEthnicity,"White, NH",17.65
+2019,New Hampshire,Sex,Female,22.875
+2019,New Hampshire,Sex,Male,13.375
+2019,New Hampshire,Total,Total,18.075
+2019,New Jersey,RaceEthnicity,"Asian, NH",18.175
+2019,New Jersey,RaceEthnicity,"Black, NH",19.875
+2019,New Jersey,RaceEthnicity,Hispanic,18.0
+2019,New Jersey,RaceEthnicity,"Multiple race, NH",18.975
+2019,New Jersey,RaceEthnicity,"White, NH",15.475
+2019,New Jersey,Sex,Female,21.475
+2019,New Jersey,Sex,Male,12.875
+2019,New Jersey,Total,Total,17.15
+2019,New Mexico,RaceEthnicity,"AI/AN, NH",24.025
+2019,New Mexico,RaceEthnicity,"Asian, NH",15.575
+2019,New Mexico,RaceEthnicity,"Black, NH",26.2
+2019,New Mexico,RaceEthnicity,Hispanic,20.875
+2019,New Mexico,RaceEthnicity,"Multiple race, NH",28.225000000000000
+2019,New Mexico,RaceEthnicity,"NHOPI, NH",25.7
+2019,New Mexico,RaceEthnicity,"White, NH",21.275
+2019,New Mexico,Sex,Female,27.150000000000000
+2019,New Mexico,Sex,Male,16.0
+2019,New Mexico,Total,Total,21.55
+2019,New York (Excluding New York City),RaceEthnicity,"Asian, NH",20.975
+2019,New York (Excluding New York City),RaceEthnicity,"Black, NH",17.55
+2019,New York (Excluding New York City),RaceEthnicity,Hispanic,22.075
+2019,New York (Excluding New York City),RaceEthnicity,"Multiple race, NH",17.025000000000000
+2019,New York (Excluding New York City),RaceEthnicity,"White, NH",16.7
+2019,New York (Excluding New York City),Sex,Female,21.75
+2019,New York (Excluding New York City),Sex,Male,14.525
+2019,New York (Excluding New York City),Total,Total,18.375
+2019,North Carolina,RaceEthnicity,"AI/AN, NH",19.85
+2019,North Carolina,RaceEthnicity,"Asian, NH",20.725
+2019,North Carolina,RaceEthnicity,"Black, NH",17.75
+2019,North Carolina,RaceEthnicity,Hispanic,22.2
+2019,North Carolina,RaceEthnicity,"Multiple race, NH",31.425
+2019,North Carolina,RaceEthnicity,"White, NH",19.525
+2019,North Carolina,Sex,Female,24.25
+2019,North Carolina,Sex,Male,15.85
+2019,North Carolina,Total,Total,20.075
+2019,North Dakota,RaceEthnicity,"AI/AN, NH",33.825
+2019,North Dakota,RaceEthnicity,"Asian, NH",19.25
+2019,North Dakota,RaceEthnicity,"Black, NH",13.25
+2019,North Dakota,RaceEthnicity,Hispanic,23.35
+2019,North Dakota,RaceEthnicity,"Multiple race, NH",26.45
+2019,North Dakota,RaceEthnicity,"White, NH",17.325
+2019,North Dakota,Sex,Female,25.175000000000000
+2019,North Dakota,Sex,Male,13.600000000000000
+2019,North Dakota,Total,Total,19.4
+2019,Northern Mariana Islands,RaceEthnicity,"Asian, NH",26.825
+2019,Northern Mariana Islands,RaceEthnicity,Hispanic,31.125
+2019,Northern Mariana Islands,RaceEthnicity,"Multiple race, NH",38.025
+2019,Northern Mariana Islands,RaceEthnicity,"NHOPI, NH",32.125
+2019,Northern Mariana Islands,Sex,Female,37.4
+2019,Northern Mariana Islands,Sex,Male,23.475
+2019,Northern Mariana Islands,Total,Total,30.325000000000000
+2019,Ohio,RaceEthnicity,"Asian, NH",14.866666666666700
+2019,Ohio,RaceEthnicity,"Black, NH",22.15
+2019,Ohio,RaceEthnicity,Hispanic,29.45
+2019,Ohio,RaceEthnicity,"Multiple race, NH",20.475
+2019,Ohio,RaceEthnicity,"White, NH",14.225
+2019,Ohio,Sex,Female,20.350000000000000
+2019,Ohio,Sex,Male,12.7
+2019,Ohio,Total,Total,16.475
+2019,Oklahoma,RaceEthnicity,"AI/AN, NH",26.775
+2019,Oklahoma,RaceEthnicity,"Asian, NH",22.275
+2019,Oklahoma,RaceEthnicity,"Black, NH",15.525
+2019,Oklahoma,RaceEthnicity,Hispanic,23.45
+2019,Oklahoma,RaceEthnicity,"Multiple race, NH",26.15
+2019,Oklahoma,RaceEthnicity,"White, NH",21.875
+2019,Oklahoma,Sex,Female,27.925000000000000
+2019,Oklahoma,Sex,Male,17.55
+2019,Oklahoma,Total,Total,22.6
+2019,Pennsylvania,RaceEthnicity,"Asian, NH",15.55
+2019,Pennsylvania,RaceEthnicity,"Black, NH",18.425
+2019,Pennsylvania,RaceEthnicity,Hispanic,21.75
+2019,Pennsylvania,RaceEthnicity,"Multiple race, NH",18.025
+2019,Pennsylvania,RaceEthnicity,"White, NH",17.225
+2019,Pennsylvania,Sex,Female,23.425
+2019,Pennsylvania,Sex,Male,12.725
+2019,Pennsylvania,Total,Total,18.0
+2019,Puerto Rico,RaceEthnicity,Hispanic,17.725
+2019,Puerto Rico,RaceEthnicity,"White, NH",8.350000000000000
+2019,Puerto Rico,Sex,Female,21.125
+2019,Puerto Rico,Sex,Male,13.85
+2019,Puerto Rico,Total,Total,17.7
+2019,Rhode Island,RaceEthnicity,"Asian, NH",15.175
+2019,Rhode Island,RaceEthnicity,"Black, NH",18.725
+2019,Rhode Island,RaceEthnicity,Hispanic,20.375
+2019,Rhode Island,RaceEthnicity,"Multiple race, NH",22.825
+2019,Rhode Island,RaceEthnicity,"White, NH",16.825
+2019,Rhode Island,Sex,Female,21.1
+2019,Rhode Island,Sex,Male,14.825
+2019,Rhode Island,Total,Total,18.100000000000000
+2019,South Carolina,RaceEthnicity,"Asian, NH",30.733333333333300
+2019,South Carolina,RaceEthnicity,"Black, NH",19.575
+2019,South Carolina,RaceEthnicity,Hispanic,24.95
+2019,South Carolina,RaceEthnicity,"Multiple race, NH",26.53333333333330
+2019,South Carolina,RaceEthnicity,"White, NH",20.1
+2019,South Carolina,Sex,Female,23.975
+2019,South Carolina,Sex,Male,17.25
+2019,South Carolina,Total,Total,20.725
+2019,South Dakota,RaceEthnicity,"AI/AN, NH",40.55
+2019,South Dakota,RaceEthnicity,"Black, NH",18.85
+2019,South Dakota,RaceEthnicity,Hispanic,28.975000000000000
+2019,South Dakota,RaceEthnicity,"Multiple race, NH",31.325
+2019,South Dakota,RaceEthnicity,"White, NH",17.925
+2019,South Dakota,Sex,Female,27.4
+2019,South Dakota,Sex,Male,17.925
+2019,South Dakota,Total,Total,22.625
+2019,Tennessee,RaceEthnicity,"Asian, NH",16.650000000000000
+2019,Tennessee,RaceEthnicity,"Black, NH",18.2
+2019,Tennessee,RaceEthnicity,Hispanic,23.325
+2019,Tennessee,RaceEthnicity,"Multiple race, NH",30.525
+2019,Tennessee,RaceEthnicity,"White, NH",21.125
+2019,Tennessee,Sex,Female,25.55
+2019,Tennessee,Sex,Male,15.625
+2019,Tennessee,Total,Total,20.675
+2019,Texas,RaceEthnicity,"Asian, NH",19.625
+2019,Texas,RaceEthnicity,"Black, NH",20.0
+2019,Texas,RaceEthnicity,Hispanic,19.725
+2019,Texas,RaceEthnicity,"Multiple race, NH",22.025
+2019,Texas,RaceEthnicity,"White, NH",21.850000000000000
+2019,Texas,Sex,Female,26.425
+2019,Texas,Sex,Male,14.75
+2019,Texas,Total,Total,20.550000000000000
+2019,United States,RaceEthnicity,"AI/AN, NH",32.475
+2019,United States,RaceEthnicity,"Asian, NH",18.775000000000000
+2019,United States,RaceEthnicity,"Black, NH",18.8
+2019,United States,RaceEthnicity,Hispanic,20.2
+2019,United States,RaceEthnicity,"Multiple race, NH",26.525000000000000
+2019,United States,RaceEthnicity,"NHOPI, NH",18.625
+2019,United States,RaceEthnicity,"White, NH",19.675
+2019,United States,Sex,Female,25.4
+2019,United States,Sex,Male,14.5
+2019,United States,Total,Total,20.025000000000000
+2019,Utah,RaceEthnicity,"AI/AN, NH",24.875
+2019,Utah,RaceEthnicity,Hispanic,24.575
+2019,Utah,RaceEthnicity,"Multiple race, NH",27.35
+2019,Utah,RaceEthnicity,"White, NH",20.975
+2019,Utah,Sex,Female,25.925
+2019,Utah,Sex,Male,17.725
+2019,Utah,Total,Total,21.75
+2019,Vermont,RaceEthnicity,"AI/AN, NH",19.433333333333300
+2019,Vermont,RaceEthnicity,"Asian, NH",13.633333333333300
+2019,Vermont,RaceEthnicity,"Black, NH",20.03333333333330
+2019,Vermont,RaceEthnicity,Hispanic,24.633333333333300
+2019,Vermont,RaceEthnicity,"Multiple race, NH",21.066666666666700
+2019,Vermont,RaceEthnicity,"NHOPI, NH",31.600000000000000
+2019,Vermont,RaceEthnicity,"White, NH",16.266666666666700
+2019,Vermont,Sex,Female,21.800000000000000
+2019,Vermont,Sex,Male,12.300000000000000
+2019,Vermont,Total,Total,16.933333333333300
+2019,Virginia,RaceEthnicity,"Asian, NH",14.425
+2019,Virginia,RaceEthnicity,"Black, NH",16.925
+2019,Virginia,RaceEthnicity,Hispanic,19.9
+2019,Virginia,RaceEthnicity,"Multiple race, NH",24.15
+2019,Virginia,RaceEthnicity,"White, NH",15.175
+2019,Virginia,Sex,Female,21.75
+2019,Virginia,Sex,Male,12.325
+2019,Virginia,Total,Total,16.825
+2019,West Virginia,RaceEthnicity,"AI/AN, NH",30.3
+2019,West Virginia,RaceEthnicity,"Black, NH",12.05
+2019,West Virginia,RaceEthnicity,Hispanic,26.075
+2019,West Virginia,RaceEthnicity,"Multiple race, NH",30.3
+2019,West Virginia,RaceEthnicity,"White, NH",20.35
+2019,West Virginia,Sex,Female,24.6
+2019,West Virginia,Sex,Male,16.5
+2019,West Virginia,Total,Total,20.600000000000000
+2019,Wisconsin,RaceEthnicity,"Asian, NH",15.525
+2019,Wisconsin,RaceEthnicity,"Black, NH",12.8
+2019,Wisconsin,RaceEthnicity,Hispanic,21.775
+2019,Wisconsin,RaceEthnicity,"Multiple race, NH",18.0
+2019,Wisconsin,RaceEthnicity,"White, NH",15.5
+2019,Wisconsin,Sex,Female,20.85
+2019,Wisconsin,Sex,Male,11.6
+2019,Wisconsin,Total,Total,16.15
+2021,Alabama,RaceEthnicity,"Black, NH",24.55
+2021,Alabama,RaceEthnicity,Hispanic,40.3
+2021,Alabama,RaceEthnicity,"White, NH",25.5
+2021,Alabama,Sex,Female,36.025
+2021,Alabama,Sex,Male,16.875
+2021,Alabama,Total,Total,26.85
+2021,Arizona,RaceEthnicity,"Black, NH",26.225
+2021,Arizona,RaceEthnicity,Hispanic,22.475
+2021,Arizona,RaceEthnicity,"Multiple race, NH",21.15
+2021,Arizona,RaceEthnicity,"White, NH",22.15
+2021,Arizona,Sex,Female,32.025
+2021,Arizona,Sex,Male,12.7
+2021,Arizona,Total,Total,22.375
+2021,Arkansas,RaceEthnicity,"Black, NH",19.940000000000000
+2021,Arkansas,RaceEthnicity,Hispanic,28.560000000000000
+2021,Arkansas,RaceEthnicity,"Multiple race, NH",26.660000000000000
+2021,Arkansas,RaceEthnicity,"White, NH",25.4
+2021,Arkansas,Sex,Female,32.68
+2021,Arkansas,Sex,Male,16.84
+2021,Arkansas,Total,Total,25.120000000000000
+2021,Colorado,RaceEthnicity,"Asian, NH",25.72
+2021,Colorado,RaceEthnicity,"Black, NH",29.1
+2021,Colorado,RaceEthnicity,Hispanic,28.0
+2021,Colorado,RaceEthnicity,"Multiple race, NH",34.18
+2021,Colorado,RaceEthnicity,"White, NH",22.04
+2021,Colorado,Sex,Female,29.54
+2021,Colorado,Sex,Male,20.3
+2021,Colorado,Total,Total,25.0
+2021,Connecticut,RaceEthnicity,"Asian, NH",14.8
+2021,Connecticut,RaceEthnicity,"Black, NH",19.925
+2021,Connecticut,RaceEthnicity,Hispanic,24.075
+2021,Connecticut,RaceEthnicity,"Multiple race, NH",28.975000000000000
+2021,Connecticut,RaceEthnicity,"White, NH",19.5
+2021,Connecticut,Sex,Female,29.175
+2021,Connecticut,Sex,Male,13.150000000000000
+2021,Connecticut,Total,Total,21.025
+2021,Delaware,RaceEthnicity,"Asian, NH",17.125
+2021,Delaware,RaceEthnicity,"Black, NH",18.55
+2021,Delaware,RaceEthnicity,Hispanic,22.025
+2021,Delaware,RaceEthnicity,"Multiple race, NH",19.975
+2021,Delaware,RaceEthnicity,"White, NH",19.75
+2021,Delaware,Sex,Female,28.200000000000000
+2021,Delaware,Sex,Male,11.075000000000000
+2021,Delaware,Total,Total,19.9
+2021,Florida,RaceEthnicity,"Asian, NH",18.95
+2021,Florida,RaceEthnicity,"Black, NH",18.075
+2021,Florida,RaceEthnicity,Hispanic,21.3
+2021,Florida,RaceEthnicity,"Multiple race, NH",27.3
+2021,Florida,RaceEthnicity,"White, NH",19.025
+2021,Florida,Sex,Female,26.6
+2021,Florida,Sex,Male,13.3
+2021,Florida,Total,Total,19.925
+2021,Georgia,RaceEthnicity,"Black, NH",23.15
+2021,Georgia,RaceEthnicity,Hispanic,31.3
+2021,Georgia,RaceEthnicity,"Multiple race, NH",38.200000000000000
+2021,Georgia,RaceEthnicity,"White, NH",29.05
+2021,Georgia,Sex,Female,37.775
+2021,Georgia,Sex,Male,15.600000000000000
+2021,Georgia,Total,Total,27.1
+2021,Hawaii,RaceEthnicity,"Asian, NH",16.8
+2021,Hawaii,RaceEthnicity,"Black, NH",24.725
+2021,Hawaii,RaceEthnicity,Hispanic,22.675
+2021,Hawaii,RaceEthnicity,"Multiple race, NH",18.425
+2021,Hawaii,RaceEthnicity,"NHOPI, NH",18.9
+2021,Hawaii,RaceEthnicity,"White, NH",15.45
+2021,Hawaii,Sex,Female,24.45
+2021,Hawaii,Sex,Male,11.925000000000000
+2021,Hawaii,Total,Total,18.025
+2021,Idaho,RaceEthnicity,Hispanic,28.225
+2021,Idaho,RaceEthnicity,"Multiple race, NH",34.375
+2021,Idaho,RaceEthnicity,"White, NH",22.325
+2021,Idaho,Sex,Female,29.05
+2021,Idaho,Sex,Male,17.75
+2021,Idaho,Total,Total,24.175
+2021,Illinois,RaceEthnicity,"Asian, NH",21.6
+2021,Illinois,RaceEthnicity,"Black, NH",22.72
+2021,Illinois,RaceEthnicity,Hispanic,24.580000000000000
+2021,Illinois,RaceEthnicity,"Multiple race, NH",27.46
+2021,Illinois,RaceEthnicity,"White, NH",23.18
+2021,Illinois,Sex,Female,32.340000000000000
+2021,Illinois,Sex,Male,14.440000000000000
+2021,Illinois,Total,Total,23.560000000000000
+2021,Indiana,RaceEthnicity,"Black, NH",25.440000000000000
+2021,Indiana,RaceEthnicity,Hispanic,27.140000000000000
+2021,Indiana,RaceEthnicity,"Multiple race, NH",51.420000000000000
+2021,Indiana,RaceEthnicity,"White, NH",27.660000000000000
+2021,Indiana,Sex,Female,38.1
+2021,Indiana,Sex,Male,18.0
+2021,Indiana,Total,Total,27.860000000000000
+2021,Iowa,RaceEthnicity,"Asian, NH",30.5
+2021,Iowa,RaceEthnicity,"Black, NH",27.080000000000000
+2021,Iowa,RaceEthnicity,Hispanic,30.880000000000000
+2021,Iowa,RaceEthnicity,"Multiple race, NH",29.920000000000000
+2021,Iowa,RaceEthnicity,"White, NH",22.9
+2021,Iowa,Sex,Female,31.840000000000000
+2021,Iowa,Sex,Male,16.32
+2021,Iowa,Total,Total,24.64
+2021,Kansas,RaceEthnicity,"AI/AN, NH",18.9
+2021,Kansas,RaceEthnicity,"Asian, NH",24.825
+2021,Kansas,RaceEthnicity,"Black, NH",24.55
+2021,Kansas,RaceEthnicity,Hispanic,23.8
+2021,Kansas,RaceEthnicity,"Multiple race, NH",28.075
+2021,Kansas,RaceEthnicity,"White, NH",21.2
+2021,Kansas,Sex,Female,27.275
+2021,Kansas,Sex,Male,16.925000000000000
+2021,Kansas,Total,Total,22.450000000000000
+2021,Kentucky,RaceEthnicity,"AI/AN, NH",13.2
+2021,Kentucky,RaceEthnicity,"Asian, NH",16.22
+2021,Kentucky,RaceEthnicity,"Black, NH",17.760000000000000
+2021,Kentucky,RaceEthnicity,Hispanic,22.1
+2021,Kentucky,RaceEthnicity,"Multiple race, NH",30.3
+2021,Kentucky,RaceEthnicity,"White, NH",22.740000000000000
+2021,Kentucky,Sex,Female,29.560000000000000
+2021,Kentucky,Sex,Male,14.840000000000000
+2021,Kentucky,Total,Total,22.28
+2021,Louisiana,RaceEthnicity,"Black, NH",28.8
+2021,Louisiana,RaceEthnicity,Hispanic,33.380000000000000
+2021,Louisiana,RaceEthnicity,"Multiple race, NH",37.225
+2021,Louisiana,RaceEthnicity,"White, NH",26.04
+2021,Louisiana,Sex,Female,36.58
+2021,Louisiana,Sex,Male,19.740000000000000
+2021,Louisiana,Total,Total,28.22
+2021,Maine,RaceEthnicity,"AI/AN, NH",24.675
+2021,Maine,RaceEthnicity,"Asian, NH",23.25
+2021,Maine,RaceEthnicity,"Black, NH",17.95
+2021,Maine,RaceEthnicity,Hispanic,25.675
+2021,Maine,RaceEthnicity,"Multiple race, NH",29.95
+2021,Maine,RaceEthnicity,"White, NH",25.45
+2021,Maine,Sex,Female,33.225
+2021,Maine,Sex,Male,17.225
+2021,Maine,Total,Total,25.225
+2021,Maryland,RaceEthnicity,"AI/AN, NH",24.780000000000000
+2021,Maryland,RaceEthnicity,"Asian, NH",21.96
+2021,Maryland,RaceEthnicity,"Black, NH",24.060000000000000
+2021,Maryland,RaceEthnicity,Hispanic,25.56
+2021,Maryland,RaceEthnicity,"Multiple race, NH",28.32
+2021,Maryland,RaceEthnicity,"NHOPI, NH",27.28
+2021,Maryland,RaceEthnicity,"White, NH",23.9
+2021,Maryland,Sex,Female,31.140000000000000
+2021,Maryland,Sex,Male,17.120000000000000
+2021,Maryland,Total,Total,24.360000000000000
+2021,Massachusetts,RaceEthnicity,"Asian, NH",22.6
+2021,Massachusetts,RaceEthnicity,"Black, NH",20.620000000000000
+2021,Massachusetts,RaceEthnicity,Hispanic,25.74
+2021,Massachusetts,RaceEthnicity,"Multiple race, NH",24.380000000000000
+2021,Massachusetts,RaceEthnicity,"White, NH",20.78
+2021,Massachusetts,Sex,Female,29.2
+2021,Massachusetts,Sex,Male,14.680000000000000
+2021,Massachusetts,Total,Total,22.06
+2021,Michigan,RaceEthnicity,"AI/AN, NH",32.3
+2021,Michigan,RaceEthnicity,"Asian, NH",21.260000000000000
+2021,Michigan,RaceEthnicity,"Black, NH",24.3
+2021,Michigan,RaceEthnicity,Hispanic,28.26
+2021,Michigan,RaceEthnicity,"Multiple race, NH",32.1
+2021,Michigan,RaceEthnicity,"White, NH",22.260000000000000
+2021,Michigan,Sex,Female,31.02
+2021,Michigan,Sex,Male,15.540000000000000
+2021,Michigan,Total,Total,23.340000000000000
+2021,Mississippi,RaceEthnicity,"Black, NH",22.44
+2021,Mississippi,RaceEthnicity,Hispanic,28.660000000000000
+2021,Mississippi,RaceEthnicity,"Multiple race, NH",40.660000000000000
+2021,Mississippi,RaceEthnicity,"White, NH",26.580000000000000
+2021,Mississippi,Sex,Female,31.18
+2021,Mississippi,Sex,Male,18.46
+2021,Mississippi,Total,Total,25.120000000000000
+2021,Missouri,RaceEthnicity,"Black, NH",22.325
+2021,Missouri,RaceEthnicity,Hispanic,23.775
+2021,Missouri,RaceEthnicity,"White, NH",18.025
+2021,Missouri,Sex,Female,25.425
+2021,Missouri,Sex,Male,13.65
+2021,Missouri,Total,Total,19.6
+2021,Montana,RaceEthnicity,"AI/AN, NH",28.76
+2021,Montana,RaceEthnicity,"Asian, NH",25.15
+2021,Montana,RaceEthnicity,"Black, NH",24.9
+2021,Montana,RaceEthnicity,Hispanic,34.14
+2021,Montana,RaceEthnicity,"Multiple race, NH",27.98
+2021,Montana,RaceEthnicity,"White, NH",23.28
+2021,Montana,Sex,Female,30.880000000000000
+2021,Montana,Sex,Male,18.0
+2021,Montana,Total,Total,24.56
+2021,Nebraska,RaceEthnicity,Hispanic,18.32
+2021,Nebraska,RaceEthnicity,"White, NH",21.68
+2021,Nebraska,Sex,Female,29.420000000000000
+2021,Nebraska,Sex,Male,14.52
+2021,Nebraska,Total,Total,21.72
+2021,Nevada,RaceEthnicity,"Asian, NH",27.25
+2021,Nevada,RaceEthnicity,"Black, NH",24.900000000000000
+2021,Nevada,RaceEthnicity,Hispanic,24.225000000000000
+2021,Nevada,RaceEthnicity,"Multiple race, NH",29.275
+2021,Nevada,RaceEthnicity,"NHOPI, NH",35.4
+2021,Nevada,RaceEthnicity,"White, NH",26.875
+2021,Nevada,Sex,Female,32.6
+2021,Nevada,Sex,Male,17.95
+2021,Nevada,Total,Total,25.575
+2021,New Hampshire,RaceEthnicity,"AI/AN, NH",29.660000000000000
+2021,New Hampshire,RaceEthnicity,"Asian, NH",25.380000000000000
+2021,New Hampshire,RaceEthnicity,"Black, NH",21.080000000000000
+2021,New Hampshire,RaceEthnicity,Hispanic,30.840000000000000
+2021,New Hampshire,RaceEthnicity,"Multiple race, NH",34.04
+2021,New Hampshire,RaceEthnicity,"NHOPI, NH",33.7
+2021,New Hampshire,RaceEthnicity,"White, NH",26.560000000000000
+2021,New Hampshire,Sex,Female,35.46
+2021,New Hampshire,Sex,Male,17.880000000000000
+2021,New Hampshire,Total,Total,26.840000000000000
+2021,New Jersey,RaceEthnicity,"Asian, NH",23.22
+2021,New Jersey,RaceEthnicity,"Black, NH",24.54
+2021,New Jersey,RaceEthnicity,Hispanic,24.02
+2021,New Jersey,RaceEthnicity,"Multiple race, NH",25.7
+2021,New Jersey,RaceEthnicity,"White, NH",22.62
+2021,New Jersey,Sex,Female,30.3
+2021,New Jersey,Sex,Male,14.940000000000000
+2021,New Jersey,Total,Total,23.32
+2021,New Mexico,RaceEthnicity,"AI/AN, NH",25.18
+2021,New Mexico,RaceEthnicity,"Asian, NH",19.94
+2021,New Mexico,RaceEthnicity,"Black, NH",19.7
+2021,New Mexico,RaceEthnicity,Hispanic,22.740000000000000
+2021,New Mexico,RaceEthnicity,"Multiple race, NH",33.18
+2021,New Mexico,RaceEthnicity,"White, NH",24.96
+2021,New Mexico,Sex,Female,30.940000000000000
+2021,New Mexico,Sex,Male,16.380000000000000
+2021,New Mexico,Total,Total,23.64
+2021,New York (Excluding New York City),RaceEthnicity,"Asian, NH",18.64
+2021,New York (Excluding New York City),RaceEthnicity,"Black, NH",20.0
+2021,New York (Excluding New York City),RaceEthnicity,Hispanic,20.96
+2021,New York (Excluding New York City),RaceEthnicity,"Multiple race, NH",36.65
+2021,New York (Excluding New York City),RaceEthnicity,"White, NH",18.380000000000000
+2021,New York (Excluding New York City),Sex,Female,25.5
+2021,New York (Excluding New York City),Sex,Male,12.76
+2021,New York (Excluding New York City),Total,Total,19.54
+2021,North Carolina,RaceEthnicity,"Asian, NH",19.24
+2021,North Carolina,RaceEthnicity,"Black, NH",22.94
+2021,North Carolina,RaceEthnicity,Hispanic,22.16
+2021,North Carolina,RaceEthnicity,"Multiple race, NH",29.560000000000000
+2021,North Carolina,RaceEthnicity,"White, NH",28.02
+2021,North Carolina,Sex,Female,33.42
+2021,North Carolina,Sex,Male,17.32
+2021,North Carolina,Total,Total,25.440000000000000
+2021,North Dakota,RaceEthnicity,"AI/AN, NH",27.48
+2021,North Dakota,RaceEthnicity,"Black, NH",16.880000000000000
+2021,North Dakota,RaceEthnicity,Hispanic,26.080000000000000
+2021,North Dakota,RaceEthnicity,"Multiple race, NH",36.840000000000000
+2021,North Dakota,RaceEthnicity,"White, NH",19.260000000000000
+2021,North Dakota,Sex,Female,27.8
+2021,North Dakota,Sex,Male,14.1
+2021,North Dakota,Total,Total,20.84
+2021,Northern Mariana Islands,RaceEthnicity,"Asian, NH",30.640000000000000
+2021,Northern Mariana Islands,RaceEthnicity,Hispanic,36.78
+2021,Northern Mariana Islands,RaceEthnicity,"Multiple race, NH",28.640000000000000
+2021,Northern Mariana Islands,RaceEthnicity,"NHOPI, NH",33.92
+2021,Northern Mariana Islands,Sex,Female,41.04
+2021,Northern Mariana Islands,Sex,Male,23.48
+2021,Northern Mariana Islands,Total,Total,32.260000000000000
+2021,Ohio,RaceEthnicity,"Black, NH",25.860000000000000
+2021,Ohio,RaceEthnicity,Hispanic,24.6
+2021,Ohio,RaceEthnicity,"Multiple race, NH",16.4
+2021,Ohio,RaceEthnicity,"White, NH",24.7
+2021,Ohio,Sex,Female,33.82000000000000
+2021,Ohio,Sex,Male,15.1
+2021,Ohio,Total,Total,24.120000000000000
+2021,Oklahoma,RaceEthnicity,"AI/AN, NH",25.380000000000000
+2021,Oklahoma,RaceEthnicity,"Asian, NH",13.540000000000000
+2021,Oklahoma,RaceEthnicity,"Black, NH",27.98
+2021,Oklahoma,RaceEthnicity,Hispanic,25.0
+2021,Oklahoma,RaceEthnicity,"Multiple race, NH",27.54
+2021,Oklahoma,RaceEthnicity,"White, NH",24.080000000000000
+2021,Oklahoma,Sex,Female,33.660000000000000
+2021,Oklahoma,Sex,Male,16.48
+2021,Oklahoma,Total,Total,24.98
+2021,Palau,RaceEthnicity,"Asian, NH",29.920000000000000
+2021,Palau,RaceEthnicity,"NHOPI, NH",29.98
+2021,Palau,Sex,Female,35.9
+2021,Palau,Sex,Male,24.52
+2021,Palau,Total,Total,30.48
+2021,Pennsylvania,RaceEthnicity,"Asian, NH",20.140000000000000
+2021,Pennsylvania,RaceEthnicity,"Black, NH",27.46
+2021,Pennsylvania,RaceEthnicity,Hispanic,25.36
+2021,Pennsylvania,RaceEthnicity,"Multiple race, NH",34.08
+2021,Pennsylvania,RaceEthnicity,"White, NH",24.54
+2021,Pennsylvania,Sex,Female,34.240000000000000
+2021,Pennsylvania,Sex,Male,16.18
+2021,Pennsylvania,Total,Total,25.240000000000000
+2021,Puerto Rico,RaceEthnicity,Hispanic,15.84
+2021,Puerto Rico,RaceEthnicity,"White, NH",10.375
+2021,Puerto Rico,Sex,Female,18.8
+2021,Puerto Rico,Sex,Male,12.120000000000000
+2021,Puerto Rico,Total,Total,15.820000000000000
+2021,Rhode Island,RaceEthnicity,"Asian, NH",24.0
+2021,Rhode Island,RaceEthnicity,"Black, NH",21.480000000000000
+2021,Rhode Island,RaceEthnicity,Hispanic,24.1
+2021,Rhode Island,RaceEthnicity,"Multiple race, NH",24.840000000000000
+2021,Rhode Island,RaceEthnicity,"White, NH",19.94
+2021,Rhode Island,Sex,Female,29.48
+2021,Rhode Island,Sex,Male,14.4
+2021,Rhode Island,Total,Total,21.68
+2021,South Carolina,RaceEthnicity,"Asian, NH",22.066666666666700
+2021,South Carolina,RaceEthnicity,"Black, NH",26.7
+2021,South Carolina,RaceEthnicity,Hispanic,25.133333333333300
+2021,South Carolina,RaceEthnicity,"Multiple race, NH",42.300000000000000
+2021,South Carolina,RaceEthnicity,"White, NH",30.266666666666700
+2021,South Carolina,Sex,Female,36.6
+2021,South Carolina,Sex,Male,21.3
+2021,South Carolina,Total,Total,28.96666666666670
+2021,South Dakota,RaceEthnicity,"AI/AN, NH",37.775
+2021,South Dakota,RaceEthnicity,"Asian, NH",14.775
+2021,South Dakota,RaceEthnicity,Hispanic,25.0
+2021,South Dakota,RaceEthnicity,"Multiple race, NH",23.175
+2021,South Dakota,RaceEthnicity,"White, NH",20.225
+2021,South Dakota,Sex,Female,29.175
+2021,South Dakota,Sex,Male,16.45
+2021,South Dakota,Total,Total,22.650000000000000
+2021,Tennessee,RaceEthnicity,"Asian, NH",16.920000000000000
+2021,Tennessee,RaceEthnicity,"Black, NH",20.84
+2021,Tennessee,RaceEthnicity,Hispanic,24.32
+2021,Tennessee,RaceEthnicity,"Multiple race, NH",28.22
+2021,Tennessee,RaceEthnicity,"White, NH",25.9
+2021,Tennessee,Sex,Female,32.58
+2021,Tennessee,Sex,Male,17.4
+2021,Tennessee,Total,Total,25.120000000000000
+2021,Texas,RaceEthnicity,"Asian, NH",27.6
+2021,Texas,RaceEthnicity,"Black, NH",25.06
+2021,Texas,RaceEthnicity,Hispanic,26.060000000000000
+2021,Texas,RaceEthnicity,"Multiple race, NH",33.64
+2021,Texas,RaceEthnicity,"White, NH",25.06
+2021,Texas,Sex,Female,33.88
+2021,Texas,Sex,Male,17.96
+2021,Texas,Total,Total,25.940000000000000
+2021,United States,RaceEthnicity,"AI/AN, NH",27.360000000000000
+2021,United States,RaceEthnicity,"Asian, NH",19.7
+2021,United States,RaceEthnicity,"Black, NH",23.920000000000000
+2021,United States,RaceEthnicity,Hispanic,25.5
+2021,United States,RaceEthnicity,"Multiple race, NH",27.620000000000000
+2021,United States,RaceEthnicity,"NHOPI, NH",22.120000000000000
+2021,United States,RaceEthnicity,"White, NH",23.98
+2021,United States,Sex,Female,32.86
+2021,United States,Sex,Male,15.84
+2021,United States,Total,Total,24.32
+2021,Utah,RaceEthnicity,Hispanic,29.68
+2021,Utah,RaceEthnicity,"Multiple race, NH",27.9
+2021,Utah,RaceEthnicity,"White, NH",22.28
+2021,Utah,Sex,Female,30.3
+2021,Utah,Sex,Male,17.46
+2021,Utah,Total,Total,23.9
+2021,Vermont,RaceEthnicity,"AI/AN, NH",30.625
+2021,Vermont,RaceEthnicity,"Asian, NH",15.175
+2021,Vermont,RaceEthnicity,"Black, NH",19.925
+2021,Vermont,RaceEthnicity,Hispanic,27.0
+2021,Vermont,RaceEthnicity,"Multiple race, NH",28.925
+2021,Vermont,RaceEthnicity,"White, NH",20.75
+2021,Vermont,Sex,Female,29.200000000000000
+2021,Vermont,Sex,Male,13.575
+2021,Vermont,Total,Total,21.35
+2021,Virginia,RaceEthnicity,"Asian, NH",19.32
+2021,Virginia,RaceEthnicity,"Black, NH",22.760000000000000
+2021,Virginia,RaceEthnicity,Hispanic,19.5
+2021,Virginia,RaceEthnicity,"Multiple race, NH",30.76
+2021,Virginia,RaceEthnicity,"White, NH",23.640000000000000
+2021,Virginia,Sex,Female,30.98
+2021,Virginia,Sex,Male,15.16
+2021,Virginia,Total,Total,23.16
+2021,West Virginia,RaceEthnicity,"White, NH",28.2
+2021,West Virginia,Sex,Female,38.22
+2021,West Virginia,Sex,Male,19.360000000000000
+2021,West Virginia,Total,Total,28.660000000000000
+2021,Wisconsin,RaceEthnicity,"Asian, NH",23.175
+2021,Wisconsin,RaceEthnicity,"Black, NH",14.475
+2021,Wisconsin,RaceEthnicity,Hispanic,22.475
+2021,Wisconsin,RaceEthnicity,"Multiple race, NH",28.525
+2021,Wisconsin,RaceEthnicity,"White, NH",17.45
+2021,Wisconsin,Sex,Female,25.400000000000000
+2021,Wisconsin,Sex,Male,12.2
+2021,Wisconsin,Total,Total,18.775000000000000
+2023,Alaska,RaceEthnicity,"AI/AN, NH",29.8
+2023,Alaska,RaceEthnicity,"Asian, NH",20.4
+2023,Alaska,RaceEthnicity,"Black, NH",25.6
+2023,Alaska,RaceEthnicity,Hispanic,25.125
+2023,Alaska,RaceEthnicity,"Multiple race, NH",31.925
+2023,Alaska,RaceEthnicity,"NHOPI, NH",32.15
+2023,Alaska,RaceEthnicity,"White, NH",24.05
+2023,Alaska,Sex,Female,31.475
+2023,Alaska,Sex,Male,21.6
+2023,Alaska,Total,Total,26.325000000000000
+2023,American Samoa,RaceEthnicity,Hispanic,37.62
+2023,American Samoa,RaceEthnicity,"Multiple race, NH",32.46
+2023,American Samoa,RaceEthnicity,"NHOPI, NH",27.380000000000000
+2023,American Samoa,Sex,Female,36.36
+2023,American Samoa,Sex,Male,21.5
+2023,American Samoa,Total,Total,28.98
+2023,Arkansas,RaceEthnicity,"Black, NH",26.560000000000000
+2023,Arkansas,RaceEthnicity,Hispanic,25.14
+2023,Arkansas,RaceEthnicity,"Multiple race, NH",21.14
+2023,Arkansas,RaceEthnicity,"White, NH",27.02
+2023,Arkansas,Sex,Female,29.46
+2023,Arkansas,Sex,Male,23.98
+2023,Arkansas,Total,Total,26.78
+2023,Connecticut,RaceEthnicity,"Asian, NH",13.55
+2023,Connecticut,RaceEthnicity,"Black, NH",17.875
+2023,Connecticut,RaceEthnicity,Hispanic,24.075
+2023,Connecticut,RaceEthnicity,"Multiple race, NH",28.325
+2023,Connecticut,RaceEthnicity,"White, NH",21.3
+2023,Connecticut,Sex,Female,28.325
+2023,Connecticut,Sex,Male,14.475
+2023,Connecticut,Total,Total,21.6
+2023,Delaware,RaceEthnicity,"Asian, NH",10.166666666666700
+2023,Delaware,RaceEthnicity,"Black, NH",18.325
+2023,Delaware,RaceEthnicity,Hispanic,19.85
+2023,Delaware,RaceEthnicity,"Multiple race, NH",25.7
+2023,Delaware,RaceEthnicity,"White, NH",18.05
+2023,Delaware,Sex,Female,25.8
+2023,Delaware,Sex,Male,10.7
+2023,Delaware,Total,Total,18.425
+2023,Hawaii,RaceEthnicity,"Asian, NH",20.240000000000000
+2023,Hawaii,RaceEthnicity,"Black, NH",12.8
+2023,Hawaii,RaceEthnicity,Hispanic,24.080000000000000
+2023,Hawaii,RaceEthnicity,"Multiple race, NH",21.2
+2023,Hawaii,RaceEthnicity,"NHOPI, NH",17.880000000000000
+2023,Hawaii,RaceEthnicity,"White, NH",16.04
+2023,Hawaii,Sex,Female,25.54
+2023,Hawaii,Sex,Male,13.280000000000000
+2023,Hawaii,Total,Total,19.340000000000000
+2023,Illinois,RaceEthnicity,"Asian, NH",16.880000000000000
+2023,Illinois,RaceEthnicity,"Black, NH",22.660000000000000
+2023,Illinois,RaceEthnicity,Hispanic,23.080000000000000
+2023,Illinois,RaceEthnicity,"Multiple race, NH",35.760000000000000
+2023,Illinois,RaceEthnicity,"White, NH",19.86
+2023,Illinois,Sex,Female,29.160000000000000
+2023,Illinois,Sex,Male,14.26
+2023,Illinois,Total,Total,21.740000000000000
+2023,Indiana,RaceEthnicity,"Black, NH",29.560000000000000
+2023,Indiana,RaceEthnicity,Hispanic,27.360000000000000
+2023,Indiana,RaceEthnicity,"Multiple race, NH",35.7
+2023,Indiana,RaceEthnicity,"White, NH",29.440000000000000
+2023,Indiana,Sex,Female,36.78
+2023,Indiana,Sex,Male,20.82
+2023,Indiana,Total,Total,29.04
+2023,Kentucky,RaceEthnicity,"Asian, NH",21.96
+2023,Kentucky,RaceEthnicity,"Black, NH",24.16
+2023,Kentucky,RaceEthnicity,Hispanic,24.240000000000000
+2023,Kentucky,RaceEthnicity,"Multiple race, NH",30.74
+2023,Kentucky,RaceEthnicity,"White, NH",21.9
+2023,Kentucky,Sex,Female,28.380000000000000
+2023,Kentucky,Sex,Male,17.0
+2023,Kentucky,Total,Total,22.6
+2023,Maine,RaceEthnicity,"AI/AN, NH",37.55
+2023,Maine,RaceEthnicity,"Asian, NH",25.875
+2023,Maine,RaceEthnicity,"Black, NH",17.45
+2023,Maine,RaceEthnicity,Hispanic,31.65
+2023,Maine,RaceEthnicity,"Multiple race, NH",32.25
+2023,Maine,RaceEthnicity,"White, NH",24.050000000000000
+2023,Maine,Sex,Female,32.15
+2023,Maine,Sex,Male,17.275
+2023,Maine,Total,Total,24.575
+2023,Maryland,RaceEthnicity,"AI/AN, NH",21.0
+2023,Maryland,RaceEthnicity,"Asian, NH",16.880000000000000
+2023,Maryland,RaceEthnicity,"Black, NH",21.6
+2023,Maryland,RaceEthnicity,Hispanic,21.04
+2023,Maryland,RaceEthnicity,"Multiple race, NH",28.68
+2023,Maryland,RaceEthnicity,"NHOPI, NH",21.620000000000000
+2023,Maryland,RaceEthnicity,"White, NH",20.78
+2023,Maryland,Sex,Female,28.880000000000000
+2023,Maryland,Sex,Male,13.7
+2023,Maryland,Total,Total,21.2
+2023,Massachusetts,RaceEthnicity,"Asian, NH",20.66
+2023,Massachusetts,RaceEthnicity,"Black, NH",26.48
+2023,Massachusetts,RaceEthnicity,Hispanic,18.620000000000000
+2023,Massachusetts,RaceEthnicity,"Multiple race, NH",23.32
+2023,Massachusetts,RaceEthnicity,"White, NH",19.260000000000000
+2023,Massachusetts,Sex,Female,26.28
+2023,Massachusetts,Sex,Male,14.0
+2023,Massachusetts,Total,Total,20.04
+2023,Michigan,RaceEthnicity,"AI/AN, NH",30.125
+2023,Michigan,RaceEthnicity,"Asian, NH",14.540000000000000
+2023,Michigan,RaceEthnicity,"Black, NH",24.76
+2023,Michigan,RaceEthnicity,Hispanic,27.24
+2023,Michigan,RaceEthnicity,"Multiple race, NH",31.640000000000000
+2023,Michigan,RaceEthnicity,"White, NH",23.840000000000000
+2023,Michigan,Sex,Female,30.920000000000000
+2023,Michigan,Sex,Male,17.34
+2023,Michigan,Total,Total,24.2
+2023,Mississippi,RaceEthnicity,"Black, NH",20.18
+2023,Mississippi,RaceEthnicity,Hispanic,30.560000000000000
+2023,Mississippi,RaceEthnicity,"White, NH",25.4
+2023,Mississippi,Sex,Female,28.140000000000000
+2023,Mississippi,Sex,Male,17.82
+2023,Mississippi,Total,Total,23.18
+2023,Missouri,RaceEthnicity,"Asian, NH",21.100000000000000
+2023,Missouri,RaceEthnicity,"Black, NH",31.400000000000000
+2023,Missouri,RaceEthnicity,Hispanic,33.96666666666670
+2023,Missouri,RaceEthnicity,"Multiple race, NH",55.1
+2023,Missouri,RaceEthnicity,"White, NH",33.200000000000000
+2023,Missouri,Sex,Female,41.86666666666670
+2023,Missouri,Sex,Male,25.53333333333330
+2023,Missouri,Total,Total,33.46666666666670
+2023,Montana,RaceEthnicity,"AI/AN, NH",28.660000000000000
+2023,Montana,RaceEthnicity,"Asian, NH",20.04
+2023,Montana,RaceEthnicity,"Black, NH",31.1
+2023,Montana,RaceEthnicity,Hispanic,36.08
+2023,Montana,RaceEthnicity,"Multiple race, NH",34.5
+2023,Montana,RaceEthnicity,"White, NH",25.7
+2023,Montana,Sex,Female,33.82
+2023,Montana,Sex,Male,19.94
+2023,Montana,Total,Total,26.9
+2023,Nebraska,RaceEthnicity,Hispanic,10.32
+2023,Nebraska,RaceEthnicity,"White, NH",16.6
+2023,Nebraska,Sex,Female,19.78
+2023,Nebraska,Sex,Male,11.220000000000000
+2023,Nebraska,Total,Total,15.4
+2023,Nevada,RaceEthnicity,"Asian, NH",23.15
+2023,Nevada,RaceEthnicity,"Black, NH",30.7
+2023,Nevada,RaceEthnicity,Hispanic,23.625
+2023,Nevada,RaceEthnicity,"Multiple race, NH",25.75
+2023,Nevada,RaceEthnicity,"White, NH",21.075
+2023,Nevada,Sex,Female,29.15
+2023,Nevada,Sex,Male,16.175
+2023,Nevada,Total,Total,23.675
+2023,New Hampshire,RaceEthnicity,"AI/AN, NH",25.96
+2023,New Hampshire,RaceEthnicity,"Asian, NH",19.6
+2023,New Hampshire,RaceEthnicity,"Black, NH",18.1
+2023,New Hampshire,RaceEthnicity,Hispanic,29.580000000000000
+2023,New Hampshire,RaceEthnicity,"Multiple race, NH",30.660000000000000
+2023,New Hampshire,RaceEthnicity,"NHOPI, NH",24.620000000000000
+2023,New Hampshire,RaceEthnicity,"White, NH",23.34
+2023,New Hampshire,Sex,Female,30.380000000000000
+2023,New Hampshire,Sex,Male,17.080000000000000
+2023,New Hampshire,Total,Total,23.8
+2023,New Jersey,RaceEthnicity,"Asian, NH",17.080000000000000
+2023,New Jersey,RaceEthnicity,"Black, NH",21.72
+2023,New Jersey,RaceEthnicity,Hispanic,21.740000000000000
+2023,New Jersey,RaceEthnicity,"Multiple race, NH",19.04
+2023,New Jersey,RaceEthnicity,"White, NH",16.4
+2023,New Jersey,Sex,Female,26.180000000000000
+2023,New Jersey,Sex,Male,10.5
+2023,New Jersey,Total,Total,18.78
+2023,New Mexico,RaceEthnicity,"AI/AN, NH",21.0
+2023,New Mexico,RaceEthnicity,"Asian, NH",18.25
+2023,New Mexico,RaceEthnicity,"Black, NH",18.35
+2023,New Mexico,RaceEthnicity,Hispanic,20.325000000000000
+2023,New Mexico,RaceEthnicity,"Multiple race, NH",28.075
+2023,New Mexico,RaceEthnicity,"NHOPI, NH",26.6
+2023,New Mexico,RaceEthnicity,"White, NH",23.025
+2023,New Mexico,Sex,Female,27.6
+2023,New Mexico,Sex,Male,14.525
+2023,New Mexico,Total,Total,21.075000000000000
+2023,New York (Excluding New York City),RaceEthnicity,"Asian, NH",31.04
+2023,New York (Excluding New York City),RaceEthnicity,"Black, NH",23.04
+2023,New York (Excluding New York City),RaceEthnicity,Hispanic,23.16
+2023,New York (Excluding New York City),RaceEthnicity,"White, NH",19.04
+2023,New York (Excluding New York City),Sex,Female,26.120000000000000
+2023,New York (Excluding New York City),Sex,Male,14.0
+2023,New York (Excluding New York City),Total,Total,20.96
+2023,North Carolina,RaceEthnicity,"AI/AN, NH",20.04
+2023,North Carolina,RaceEthnicity,"Asian, NH",32.78
+2023,North Carolina,RaceEthnicity,"Black, NH",21.080000000000000
+2023,North Carolina,RaceEthnicity,Hispanic,22.6
+2023,North Carolina,RaceEthnicity,"Multiple race, NH",28.24
+2023,North Carolina,RaceEthnicity,"White, NH",22.46
+2023,North Carolina,Sex,Female,29.380000000000000
+2023,North Carolina,Sex,Male,15.36
+2023,North Carolina,Total,Total,22.54
+2023,North Dakota,RaceEthnicity,"AI/AN, NH",30.380000000000000
+2023,North Dakota,RaceEthnicity,"Asian, NH",22.04
+2023,North Dakota,RaceEthnicity,"Black, NH",15.48
+2023,North Dakota,RaceEthnicity,Hispanic,27.820000000000000
+2023,North Dakota,RaceEthnicity,"Multiple race, NH",24.48
+2023,North Dakota,RaceEthnicity,"White, NH",19.72
+2023,North Dakota,Sex,Female,27.72
+2023,North Dakota,Sex,Male,14.9
+2023,North Dakota,Total,Total,21.2
+2023,Northern Mariana Islands,RaceEthnicity,"Asian, NH",24.620000000000000
+2023,Northern Mariana Islands,RaceEthnicity,Hispanic,25.620000000000000
+2023,Northern Mariana Islands,RaceEthnicity,"Multiple race, NH",31.82
+2023,Northern Mariana Islands,RaceEthnicity,"NHOPI, NH",29.74
+2023,Northern Mariana Islands,Sex,Female,36.66
+2023,Northern Mariana Islands,Sex,Male,19.340000000000000
+2023,Northern Mariana Islands,Total,Total,27.880000000000000
+2023,Ohio,RaceEthnicity,"Black, NH",19.260000000000000
+2023,Ohio,RaceEthnicity,Hispanic,10.88
+2023,Ohio,RaceEthnicity,"Multiple race, NH",29.1
+2023,Ohio,RaceEthnicity,"White, NH",23.220000000000000
+2023,Ohio,Sex,Female,29.3
+2023,Ohio,Sex,Male,15.6
+2023,Ohio,Total,Total,22.32
+2023,Oklahoma,RaceEthnicity,"AI/AN, NH",20.84
+2023,Oklahoma,RaceEthnicity,"Asian, NH",19.060000000000000
+2023,Oklahoma,RaceEthnicity,"Black, NH",22.620000000000000
+2023,Oklahoma,RaceEthnicity,Hispanic,24.8
+2023,Oklahoma,RaceEthnicity,"Multiple race, NH",32.46
+2023,Oklahoma,RaceEthnicity,"White, NH",26.52
+2023,Oklahoma,Sex,Female,34.1
+2023,Oklahoma,Sex,Male,16.760000000000000
+2023,Oklahoma,Total,Total,25.660000000000000
+2023,Palau,RaceEthnicity,"Asian, NH",38.44
+2023,Palau,RaceEthnicity,"NHOPI, NH",30.72
+2023,Palau,Sex,Female,37.560000000000000
+2023,Palau,Sex,Male,24.22
+2023,Palau,Total,Total,30.880000000000000
+2023,Pennsylvania,RaceEthnicity,"Asian, NH",15.820000000000000
+2023,Pennsylvania,RaceEthnicity,"Black, NH",21.72
+2023,Pennsylvania,RaceEthnicity,Hispanic,22.72
+2023,Pennsylvania,RaceEthnicity,"Multiple race, NH",29.3
+2023,Pennsylvania,RaceEthnicity,"White, NH",21.66
+2023,Pennsylvania,Sex,Female,29.9
+2023,Pennsylvania,Sex,Male,14.16
+2023,Pennsylvania,Total,Total,21.94
+2023,Puerto Rico,RaceEthnicity,Hispanic,18.94
+2023,Puerto Rico,Sex,Female,25.18
+2023,Puerto Rico,Sex,Male,12.34
+2023,Puerto Rico,Total,Total,18.96
+2023,Rhode Island,RaceEthnicity,"Asian, NH",19.84
+2023,Rhode Island,RaceEthnicity,"Black, NH",21.64
+2023,Rhode Island,RaceEthnicity,Hispanic,21.260000000000000
+2023,Rhode Island,RaceEthnicity,"Multiple race, NH",33.42
+2023,Rhode Island,RaceEthnicity,"White, NH",18.080000000000000
+2023,Rhode Island,Sex,Female,25.940000000000000
+2023,Rhode Island,Sex,Male,13.440000000000000
+2023,Rhode Island,Total,Total,20.32
+2023,South Dakota,RaceEthnicity,"AI/AN, NH",26.675
+2023,South Dakota,RaceEthnicity,"Black, NH",14.0
+2023,South Dakota,RaceEthnicity,Hispanic,25.675
+2023,South Dakota,RaceEthnicity,"Multiple race, NH",31.675
+2023,South Dakota,RaceEthnicity,"White, NH",15.65
+2023,South Dakota,Sex,Female,23.65
+2023,South Dakota,Sex,Male,12.725
+2023,South Dakota,Total,Total,18.175
+2023,Tennessee,RaceEthnicity,"Asian, NH",21.16
+2023,Tennessee,RaceEthnicity,"Black, NH",23.5
+2023,Tennessee,RaceEthnicity,Hispanic,25.940000000000000
+2023,Tennessee,RaceEthnicity,"Multiple race, NH",32.54
+2023,Tennessee,RaceEthnicity,"White, NH",26.380000000000000
+2023,Tennessee,Sex,Female,32.56
+2023,Tennessee,Sex,Male,18.880000000000000
+2023,Tennessee,Total,Total,25.840000000000000
+2023,Texas,RaceEthnicity,"Asian, NH",14.8
+2023,Texas,RaceEthnicity,"Black, NH",27.98
+2023,Texas,RaceEthnicity,Hispanic,23.18
+2023,Texas,RaceEthnicity,"Multiple race, NH",41.025
+2023,Texas,RaceEthnicity,"White, NH",25.44
+2023,Texas,Sex,Female,33.82
+2023,Texas,Sex,Male,16.16
+2023,Texas,Total,Total,24.880000000000000
+2023,United States,RaceEthnicity,"AI/AN, NH",29.76
+2023,United States,RaceEthnicity,"Asian, NH",18.04
+2023,United States,RaceEthnicity,"Black, NH",22.380000000000000
+2023,United States,RaceEthnicity,Hispanic,22.620000000000000
+2023,United States,RaceEthnicity,"Multiple race, NH",24.620000000000000
+2023,United States,RaceEthnicity,"NHOPI, NH",16.6
+2023,United States,RaceEthnicity,"White, NH",23.54
+2023,United States,Sex,Female,30.46
+2023,United States,Sex,Male,15.76
+2023,United States,Total,Total,22.9
+2023,Utah,RaceEthnicity,Hispanic,31.940000000000000
+2023,Utah,RaceEthnicity,"White, NH",20.7
+2023,Utah,Sex,Female,30.28
+2023,Utah,Sex,Male,16.3
+2023,Utah,Total,Total,23.36
+2023,Vermont,RaceEthnicity,"AI/AN, NH",27.65
+2023,Vermont,RaceEthnicity,"Asian, NH",16.950000000000000
+2023,Vermont,RaceEthnicity,"Black, NH",19.35
+2023,Vermont,RaceEthnicity,Hispanic,27.25
+2023,Vermont,RaceEthnicity,"Multiple race, NH",28.725
+2023,Vermont,RaceEthnicity,"White, NH",20.35
+2023,Vermont,Sex,Female,28.325000000000000
+2023,Vermont,Sex,Male,13.875
+2023,Vermont,Total,Total,21.075
+2023,Virginia,RaceEthnicity,"Asian, NH",12.08
+2023,Virginia,RaceEthnicity,"Black, NH",18.3
+2023,Virginia,RaceEthnicity,Hispanic,19.16
+2023,Virginia,RaceEthnicity,"Multiple race, NH",26.52
+2023,Virginia,RaceEthnicity,"White, NH",19.860000000000000
+2023,Virginia,Sex,Female,26.78
+2023,Virginia,Sex,Male,12.36
+2023,Virginia,Total,Total,19.4
+2023,West Virginia,RaceEthnicity,"Black, NH",29.400000000000000
+2023,West Virginia,RaceEthnicity,Hispanic,34.200000000000000
+2023,West Virginia,RaceEthnicity,"Multiple race, NH",41.86666666666670
+2023,West Virginia,RaceEthnicity,"White, NH",34.53333333333330
+2023,West Virginia,Sex,Female,48.56666666666670
+2023,West Virginia,Sex,Male,22.166666666666700
+2023,West Virginia,Total,Total,34.266666666666700
+2023,Wisconsin,RaceEthnicity,"Asian, NH",10.45
+2023,Wisconsin,RaceEthnicity,"Black, NH",21.375
+2023,Wisconsin,RaceEthnicity,Hispanic,19.400000000000000
+2023,Wisconsin,RaceEthnicity,"Multiple race, NH",22.9
+2023,Wisconsin,RaceEthnicity,"White, NH",19.225
+2023,Wisconsin,Sex,Female,24.525000000000000
+2023,Wisconsin,Sex,Male,13.975
+2023,Wisconsin,Total,Total,19.3
